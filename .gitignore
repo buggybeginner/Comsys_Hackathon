@@ -1,0 +1,12 @@
+*.h5
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.pt
+*.pth
+
+/train/
+/val/
+
+
