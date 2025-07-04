@@ -75,6 +75,16 @@ Task_B/
 
 ---
 
+## 📦 Task B Dataset
+
+Due to GitHub’s file size limitations, the full `Task_B/train/` dataset is hosted on Google Drive:
+
+🔗 [Download Task_B_train.zip from Google Drive](https://drive.google.com/file/d/1_Af_gEwu8v6LJHxDt1Yewuf7BQGm5e7o/view?usp=sharing)
+
+To use it, unzip the contents inside your local `Task_B/train/` directory before running the test script.
+
+---
+
 ## ▶️ How to Run Evaluation
 
 ```
