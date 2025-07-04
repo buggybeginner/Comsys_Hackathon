@@ -77,7 +77,7 @@ Task_B/
 
 ## ▶️ How to Run Evaluation
 
-```bash
+```
 python test_Task_B.py --model_path siamese_model.pth --train_dir Task_B/train --val_dir Task_B/val_filtered --threshold 0.93
 ```
 
